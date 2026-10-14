@@ -2,5 +2,6 @@ version: "0.1.0"
 description: "Asset Administration Shell (AAS) embarcado para ESP32, exposto via OPC UA"
 url: "https://github.com/Matheus-C-S-Azevedo/esp_aas_core"
 repository: "https://github.com/Matheus-C-S-Azevedo/esp_aas_core.git"
+license: "PolyForm-Noncommercial-1.0.0"
 dependencies:
   idf: ">=6.0"

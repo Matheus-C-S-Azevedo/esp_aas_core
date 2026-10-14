@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2026 Matheus C. S. Azevedo
+ * SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+ */
+
 #include "esp_log.h"
 #include "aas_core.h"
 

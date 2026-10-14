@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Editores
+.vscode/
+.clangd/
+compile_commands.json
+
+# Saídas de build do ESP-IDF (exemplos e test_apps)
+build/
+sdkconfig
+sdkconfig.old
+managed_components/
+dependencies.lock
+
+# Python
+__pycache__/
+*.pyc
